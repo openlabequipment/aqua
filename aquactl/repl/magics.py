@@ -1,5 +1,5 @@
 from IPython.core import magic
-
+import aqua.client
 
 @magic.magics_class
 class Magics(magic.Magics):
