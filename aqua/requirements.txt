@@ -1,2 +1,1 @@
 requests==2.18.1
-pyvisa==1.8
