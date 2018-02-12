@@ -15,6 +15,7 @@ ipy = InteractiveShellEmbed()
 
 ipy.register_magics(Magics)
 
+
 def run():
     ipy.show_banner(__doc__)
     ipy.mainloop()

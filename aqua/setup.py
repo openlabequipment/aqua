@@ -20,7 +20,7 @@ setup(
     author='Liam Marshall',
     author_email='limarshall@wisc.edu',
     license='Apache',
-    classifiers = [
+    classifiers=[
         'Development Status :: 1 - Planning',
         'Intended Audience :: Science/Research',
         'Programming Language :: Python :: 3',
